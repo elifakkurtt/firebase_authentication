@@ -1,6 +1,6 @@
 # firebase_authentication
 
-A new Flutter project.
+This project encompasses fundamental user login and registration processes commonly used in applications, utilizing Firebase for secure user authentication and registration. The project leverages the Firebase Authentication service to facilitate users logging in and registering in a secure manner.
 
 ## Getting Started
 
