@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876846871168",
+    "project_id": "authentication-6c8b8",
+    "storage_bucket": "authentication-6c8b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876846871168:android:a31879921a06105d47ec65",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzkRE-FXeGGhyzkg0jjwvfvwaWNCWPwt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
